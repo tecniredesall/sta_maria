@@ -1,0 +1,118 @@
+
+
+#header{
+    
+    
+    height: 100px;
+    margin-top: -29px;
+    margin-left:  2px;
+    margin-right: 2px;
+    background-image: url('../../img/bannerx.jpg');
+    background-color: #5C9CCC;
+
+
+    }
+#header h1
+{
+    font-size: 46px;
+    font-family: erasBD;
+    color: white;
+    margin-left: 25px;
+    padding-top:15px;
+    text-shadow: 2px 2px 2px #000;
+}
+
+
+#footer{
+        border-top: 1px groove #D0EEEC; color: #000;
+        margin-left:  2px;
+        margin-right: 2px;
+}
+#footer .space{ padding: 10px; }
+#footer .foot { text-align: center; }
+
+
+
+#users {
+    
+    margin: 0 auto;
+    margin-left:  2px;
+    margin-right: 2px;
+    background-color: #5C9CCC;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    color: #333333;
+
+}
+
+.formulario
+{
+    background-color: #E0EEF9;
+    border: 2px solid rgba(0, 0, 0, 0.3);
+    border-radius: 6px 6px 6px 6px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+}
+
+.span_text_formulario
+{
+    margin-left: 15px;
+    font-size: 22px;
+    color: #343F48;
+    text-shadow: 1px 1px 1px #000;
+}
+
+.hr_titulo_formulario
+{
+    text-align: center;
+    margin-left: 5px;
+    margin-right:5px;
+    
+    border: 1px solid rgba(0, 0, 0, 0.3)
+        
+    
+}
+
+.div_encabezado_formulario
+{
+    
+    margin-top: 10px;
+    margin-bottom:10px;
+}
+
+
+
+#tmp_prin_body
+{
+    margin: 0 auto; margin-top: -10px; 
+    width: 1024px;
+    color: #333333;
+    background-color: #FFFFFF;
+    border: 2px solid rgba(0, 0, 0, 0.3);
+    border-radius: 6px 6px 6px 6px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.50);
+}
+
+body
+{
+     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+     font-size: 14px;
+     color: #333333;
+     
+}
+
+
+#tmp_prin_div_content
+{
+    padding-left: 15px;
+    padding-right:15px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    min-height: 300px;
+}
+
+
+
+
